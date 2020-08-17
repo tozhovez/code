@@ -1,9 +1,47 @@
-<mxfile host="app.diagrams.net" modified="2020-08-17T12:15:12.526Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="dkR4Fit0_C6L2aC43nBa" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-17T12:26:14.354Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="ST0BO6i7ZYsAiLt-7lQO" version="13.6.2" type="github" pages="2">
   <diagram id="Nkn0S0ipNbv6UOv9np2N" name="Page-1">
     <mxGraphModel dx="1103" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="g9ZsJ5EmhCH9u_R0RUi3-152" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;disableMultiStroke=0;disableMultiStrokeFill=1;jumpStyle=sharp;jumpSize=8;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;startSize=6;sourcePerimeterSpacing=1;endSize=6;targetPerimeterSpacing=1;strokeColor=#000099;strokeWidth=3;fontFamily=Tahoma;fontSize=28;" edge="1" parent="1" source="g9ZsJ5EmhCH9u_R0RUi3-143" target="g9ZsJ5EmhCH9u_R0RUi3-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g9ZsJ5EmhCH9u_R0RUi3-143" value="Start" style="ellipse" vertex="1" parent="1">
+          <mxGeometry x="140" y="200" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g9ZsJ5EmhCH9u_R0RUi3-150" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;disableMultiStroke=0;disableMultiStrokeFill=1;jumpStyle=sharp;jumpSize=8;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;startSize=6;sourcePerimeterSpacing=1;endSize=6;targetPerimeterSpacing=1;strokeColor=#000099;strokeWidth=3;fontFamily=Tahoma;fontSize=28;" edge="1" parent="1" source="g9ZsJ5EmhCH9u_R0RUi3-145" target="g9ZsJ5EmhCH9u_R0RUi3-149">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g9ZsJ5EmhCH9u_R0RUi3-145" value="Start" style="ellipse" vertex="1" parent="1">
+          <mxGeometry x="280" y="390" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g9ZsJ5EmhCH9u_R0RUi3-148" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;disableMultiStroke=0;disableMultiStrokeFill=1;jumpStyle=sharp;jumpSize=8;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;startSize=6;sourcePerimeterSpacing=1;endSize=6;targetPerimeterSpacing=1;strokeColor=#000099;strokeWidth=3;fontFamily=Tahoma;fontSize=28;" edge="1" parent="1" source="g9ZsJ5EmhCH9u_R0RUi3-146" target="g9ZsJ5EmhCH9u_R0RUi3-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g9ZsJ5EmhCH9u_R0RUi3-146" value="Start" style="ellipse" vertex="1" parent="1">
+          <mxGeometry x="120" y="500" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g9ZsJ5EmhCH9u_R0RUi3-147" value="Start" style="ellipse;rounded=1;fontFamily=Tahoma;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="300" y="500" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g9ZsJ5EmhCH9u_R0RUi3-149" value="Start" style="ellipse;rounded=1;fontFamily=Tahoma;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="150" y="285" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g9ZsJ5EmhCH9u_R0RUi3-151" value="Start" style="ellipse;rounded=1;fontFamily=Tahoma;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="270" y="198" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g9ZsJ5EmhCH9u_R0RUi3-153" value="" style="shape=stencil(fVXLcsMgDPwaX3cAgYBz2v5HZuI2nrZxxklff1+5DmlgHN0I3gXtahU62pz222PfOXM6T+Nr/zXszvuOHjrnhsO+n4azrDp67GjzPE79yzR+HHbL7+N2Rs6r9/FzPuF74XFG8DPLmZ9lx8CYv42nBf82HG7xCanFe6/gHSxXeIJL9/HBganCJ1jlfJ9AucJbg2QVgkGoC7IMUioiUWArgkgwyg2zwtoiMsh8n2ADYqgJuahaJSTEWrPX8b60tOBDhiWloPK14CUl1t3Hm/b8KBVqDoFqvYnhlfoZLlb47JCiUr+0LNWECFJSbTO4vsEafQ6kpab2KMskabmzyKGtySmmBg+yrWrNVRabqLU1KDZFboMqfbsUuZ67UCblSpBkK0GSihvRTAjKDTm10QiMrLh006crw4KVeZY+XWy/Tk8s87dO4FaEDzAagZCb+SREzSb5y+KWkBTV0ljTaPBIiujkYOqAey4BXifYNt9CCFVJsvh/VZYH6fZb+wLJ1vJ60eMv);fillColor=none;rounded=1;fontFamily=Tahoma;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="436.125" y="265" width="143.625" height="152.625" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="_nMW_aeylvurBtL2b9ot" name="Страница 2">
+    <mxGraphModel dx="1103" dy="723" grid="1" gridSize="15" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
+      <root>
+        <mxCell id="Armgq1WtdJu3GV856bYo-0" />
+        <mxCell id="Armgq1WtdJu3GV856bYo-1" parent="Armgq1WtdJu3GV856bYo-0" />
       </root>
     </mxGraphModel>
   </diagram>
